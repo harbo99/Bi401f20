@@ -1,0 +1,20 @@
+[
+  {
+    "Beskrivelse": "HEJHEJHEJ",
+    "Billede": "Dette er et billede et",
+    "Lokation": "Bogfinke 14",
+    "Email": "hej1@hej.dk"
+  },
+  {
+    "Beskrivelse": "HJ",
+    "Billede": "Dette er et billede to",
+    "Lokation": "Bogfinke 15",
+    "Email": "hej2@hej.dk"
+  },
+  {
+    "Beskrivelse": "FL",
+    "Billede": "Dette er et billede tre",
+    "Lokation": "Bogfinke 16",
+    "Email": "hej3@hej.dk"
+  }
+]
